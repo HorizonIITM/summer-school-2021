@@ -21,6 +21,8 @@ Astronomy (<i>+applications)</i></h1>
 
 ![Module 2.3 - Particle Physics](./week-02/particle-physics)
 
+---
+
 ## Week 3
 
 ![Module 3.1 - Relativity and Cosmology](./week-03/relativity-and-cosmology)
