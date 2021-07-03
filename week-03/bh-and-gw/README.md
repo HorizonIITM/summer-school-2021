@@ -3,6 +3,8 @@
 - Instructors : Pranav and Rahul
 - TAs : Nidhi I and II
 
+![XKCD cartoon](https://www.explainxkcd.com/wiki/images/3/3a/gravitational_waves.png)
+
 ### Contents:
 
 #### Day1 : 25th July
