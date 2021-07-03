@@ -20,7 +20,9 @@
 *Duration : 1hour*
 
  * Accelerated frames, freely falling motion vs accelerated 
+ 
  * Equivalence Principle
+ 
  * Thinking about non-Euclidean geometry
  * Spacetime Metric
 
@@ -38,6 +40,7 @@
 *Duration : 1 hour*
 
 * Cosmic Distance Ladder and Luminosity distance
+
 * Observations - CMB , H-21 cm : Evidence for Dark Matter
 * SKA and other projects
 * Epoch of Reionization - some calculations
