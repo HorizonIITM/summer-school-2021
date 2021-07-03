@@ -2,6 +2,7 @@
 Astronomy (<i>+applications)</i></h1>
 <h3 align='center'>part of CFI Summer-School 2021</h2>
 <hr>
+
 ## Week 1
 
 ![Module 1.1 - Linux](./week-01/linux/)
