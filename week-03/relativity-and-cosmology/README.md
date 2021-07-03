@@ -9,7 +9,7 @@
 
 #### Day1 : 20th July
  *Duration : 1 hour*
-
+ 
  * History, Galilean Relativity, Postulates of Special Relativity
  * Special Relativity in Electromagnetism
  * Lorentz transformation
@@ -28,12 +28,9 @@
 #### Day2 : 21st July
 *Duration : 1 hour*
 
-
  * Equivalence Principle experiments, Tests of GR and applications
  * Einstein Equation
-
  * Cosmological Principle, Hubble’s law
-
  * Friedmann Equations
 
 * **Break (~ 10 mins)**
