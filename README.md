@@ -1,9 +1,6 @@
-<h1 align='center'>A Random-Walk through Physics and 
-Astronomy (<i>+applications)</i></h1>
-<h3 align='center'>part of CFI Summer-School 2021</h2>
-<hr>
+![banner](/img/banner-summer-school.webp)
 
-![Poster](/img/banner-summer-school.webp)
+---
 
 ## Week 1
 
