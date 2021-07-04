@@ -1,4 +1,4 @@
-#  Module 3.3 :- Black Hole and Gravitational waves
+# Module 3.3 :- Black Hole and Gravitational waves
 
 - Instructors : Pranav and Rahul
 - TAs : Nidhi I and II
@@ -8,39 +8,29 @@
 ### Contents:
 
 #### Day1 : 25th July
- *Duration : 1 hour*
- 
- *Action principle in Physics
- 
- *Einstein Equation revision
- 
- *Solutions to Einstein equation: Schwarzschild Metric, Kerr Black Hole
- 
- * **Break (~ 10 mins)**
- 
- *Duration : 1 hour*
 
-*Stellar Evolution : Formation of a Neutron Star, Black Hole
+- _Duration : 1 hour_
+- Action principle in Physics
+- Einstein Equation revision
+- Solutions to Einstein equation: Schwarzschild Metric, Kerr Black Hole
 
-*Black Hole observations : Nobel Prize 2020
+- **Break (~ 10 mins)**
 
-*Event Horizon Telescope : Black Hole Image
+- _Duration : 1 hour_
+- Stellar Evolution : Formation of a Neutron Star, Black Hole
+- Black Hole observations : Nobel Prize 2020
+- Event Horizon Telescope : Black Hole Image
 
 #### Day2 : 21st July
-*Duration : 1 hour*
 
-*Binary Black Holes, Gravitational Waves, History
+- _Duration : 1 hour_
+- Binary Black Holes, Gravitational Waves, History
+- LIGO
+- The current observed GW candidates
 
-*LIGO
+- **Break (~ 10 mins)**
 
-*The current observed GW candidates
-
-* **Break (~ 10 mins)**
-
-*Duration : 1 hour*
-
-*Upcoming GW experiments
-
-*Stochastic GWs from Cosmology
-
-*Inflation 
+- _Duration : 1 hour_
+- Upcoming GW experiments
+- Stochastic GWs from Cosmology
+- Inflation
