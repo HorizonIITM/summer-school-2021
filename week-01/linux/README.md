@@ -15,7 +15,7 @@
 
 ## Resources
 
-- ![Class Notes]()
-- ![Ubuntu: A Beginner's Guide](https://www.makeuseof.com/tag/ubuntu-an-absolute-beginners-guide/)
-- ![Git Reference](https://git-scm.com/docs)
-- ![_The Linux Commmand Line_, William Shotts](http://linuxclass.heinz.cmu.edu/doc/tlcl.pdf)
+- [Class Notes]()
+- [Ubuntu: A Beginner's Guide](https://www.makeuseof.com/tag/ubuntu-an-absolute-beginners-guide/)
+- [Git Reference](https://git-scm.com/docs)
+- [_The Linux Commmand Line_, William Shotts](http://linuxclass.heinz.cmu.edu/doc/tlcl.pdf)
