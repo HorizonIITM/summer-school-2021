@@ -2,6 +2,8 @@
 
 ---
 
++ [Time-Table and Other information](./day0.md)
+
 ## Week 1
 
 [Module 1.1 - Linux](./week-01/linux/)
