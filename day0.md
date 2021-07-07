@@ -42,13 +42,25 @@
 <tr>
 <td class="org-left">07/07/2021</td>
 <td class="org-right">1.1</td>
-<td class="org-left">Linux</td>
+<td class="org-left">Linux - Part I</td>
+</tr>
+
+<tr>
+<td class="org-left">08/07/2021</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Linux - Part II</td>
 </tr>
 
 <tr>
 <td class="org-left">09/07/2021</td>
 <td class="org-right">1.2</td>
-<td class="org-left">Python</td>
+<td class="org-left">Python - Part I</td>
+</tr>
+
+<tr>
+<td class="org-left">10/07/2021</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Python - Part II</td>
 </tr>
 
 <tr>
