@@ -21,6 +21,7 @@
 ## Resources
 
 - [Class Notes - Part 1](./linux-01.md)
+- [Ubuntu Installation Tutorial](./ubuntu-installation.md)
 - [Ubuntu: A Beginner's Guide](https://www.makeuseof.com/tag/ubuntu-an-absolute-beginners-guide/)
 - [Git Reference](https://git-scm.com/docs)
 - [_The Linux Commmand Line_, William Shotts](http://linuxclass.heinz.cmu.edu/doc/tlcl.pdf)
