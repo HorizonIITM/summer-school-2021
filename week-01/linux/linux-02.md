@@ -206,6 +206,11 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;<br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2&nbsp;
       </td>
+      <td>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>stdin</b>&nbsp;<br />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>stdout</b>&nbsp;<br />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>stderr</b>&nbsp;
+      </td>
     </tr>
   </table>
 
