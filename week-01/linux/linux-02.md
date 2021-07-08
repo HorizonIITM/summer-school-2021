@@ -49,6 +49,7 @@
 
 - Example file system structure:
 
+```
   .
   ├── images
   │   ├── dec-vt100.jpg
@@ -65,6 +66,7 @@
   ├── linux.org
   ├── linux.txt
   └── virtualbox-and-ubuntu.org
+```
 
 - `pwd` - print current working directory
 - `ls` - list files and subdirectories
@@ -154,28 +156,30 @@
 
 - Everything is file in linux, and every data is plain text.
 
+```
       stdin
         │
         │
-
-  ┌────▼────┐
-  │ command │
-  └─┬─────┬─┘
-  │ │
-  ▼ ▼
+   ┌────▼────┐
+   │ command │
+   └─┬─────┬─┘
+     │     │
+     ▼     ▼
   stdout stderr
+```
 
 - Data communication _into_ is **stdin**
 - Data communication _out of_ is **stdout** and **stderr**
 - These can be piped anyhow.
 
+```
           ┌──────────┐ ┌──────────┐
-
   stdin ──► command1 ├─► command2 ├─► stdout
-  └─────┬────┘ └─────┬────┘
-  │ │
-  ▼ ▼
-  stderr stderr
+          └─────┬────┘ └─────┬────┘
+                │            │
+                ▼            ▼
+             stderr       stderr
+```
 
 <a id="org0c6ad44"></a>
 
