@@ -1,7 +1,7 @@
 # Module 3.3 :- Black Hole and Gravitational waves
 
 - Instructors : Pranav and Rahul
-- TAs : Nidhi I and II
+- TAs : Nidhi The Younger and Nidhi The Elder
 
 ![XKCD cartoon](https://www.explainxkcd.com/wiki/images/3/3a/gravitational_waves.png)
 
