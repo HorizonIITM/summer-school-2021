@@ -8,8 +8,18 @@
 
 ## Overview
 
-1. Basic Python
-2. Modules: NumPy, Matplotlib, Pandas
+1. Jupyter
+2. Variables and Operators
+3. Data Types
+4. Conditionals
+5. Loops
+6. Functions
+7. File Handling
+8. Object Oriented Programming
+9. Modules
+10. NumPy
+11. Matplotlib
+12. Pandas
 
 ## Resources
 
