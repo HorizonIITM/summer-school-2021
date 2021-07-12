@@ -1,9 +1,8 @@
-# Module 1.3
+# Module 1.3 - 12/07/2021
 
 # Hands-On Astronomy
 
 ### _Aniket Kukreti_ and _Ashish Shroti_
-
 ---
 ## Overview
 
@@ -16,11 +15,11 @@
 7. Stacking and post-processing
 8. SAO DS9 demonstration
 
----
 ## Resources
 
 1. [Class Notes](./module1_3.ipynb)
-2. Hannu Karttunen - Fundamental Astronomy
-3. [Tutorials for Astropy](https://learn.astropy.org/)
-4. [Get DS9](https://sites.google.com/cfa.harvard.edu/saoimageds9)
-5. [DS9 True Colour image tutorial](http://ds9.si.edu/doc/user/rgb/index.html) 
+2. Fundamental Astronomy - Hannu Karttunen
+3. An Introduction to Modern Astrophysics - Carroll & Ostlie
+4. [Tutorials for Astropy](https://learn.astropy.org/)
+5. [Get DS9](https://sites.google.com/cfa.harvard.edu/saoimageds9)
+6. [DS9 True Colour image tutorial](http://ds9.si.edu/doc/user/rgb/index.html) 
