@@ -18,7 +18,7 @@
 ## Resources
 
 1. [Class Notes](./module1_3.ipynb)
-2. Hannu Karttunen - Fundamental Astronomy
+2. Fundamental Astronomy - Hannu Karttunen
 3. An Introduction to Modern Astrophysics - Carroll & Ostlie
 4. [Tutorials for Astropy](https://learn.astropy.org/)
 5. [Get DS9](https://sites.google.com/cfa.harvard.edu/saoimageds9)
