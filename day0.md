@@ -74,7 +74,13 @@
 <tr>
 <td class="org-left">14/07/2021</td>
 <td class="org-right">2.1</td>
-<td class="org-left">Quantum Physics</td>
+<td class="org-left">Quantum Physics - Part I</td>
+</tr>
+
+<tr>
+<td class="org-left">15/07/2021</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Quantum Physics - Part II</td>
 </tr>
 
 <tr>
