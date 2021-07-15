@@ -16,7 +16,7 @@
 
 ## Resources
 
-1. [Class notes Part 1](./intro-to-qm-part-1.pdf)
+1. [Class slides](./intro-to-qm.pdf)
 2. [Essence of Linear
    Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 3. _Linear Algebra_ - Friedberg, Insel and Spence.
