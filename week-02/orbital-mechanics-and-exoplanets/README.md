@@ -19,7 +19,7 @@
 2. [Sine scatter plot animation code](./Animation example 2(Sine).py)
 3. [Spiral Animation GIF](./Spiral.gif)
 4. [Sine scatter plot GIF](./sine.gif)
-5. [Basic Hohmann transfer](./Hohmann Transfer (Basic).gif)
+5. [Basic Hohmann transfer GIF](./Hohmann Transfer (Basic).gif)
 6. [Matplotlib animation tutorial](https://www.youtube.com/watch?v=GtZxk8Wa3Jw)
 7. [matplotlib.animation](https://matplotlib.org/stable/api/animation_api.html)
 8. [matplotlib.animation.FuncAnimation](https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.FuncAnimation.html)
