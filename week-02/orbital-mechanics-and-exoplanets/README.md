@@ -51,12 +51,6 @@
 
 ---
 
-## Exoplanet Detection Techniques
-
-- Single Planet Transit
-
- ![](./Detection Methods/transit-method-single-planet.mp4)
-
 ## Resources
 
 ### Slides and Notes
@@ -70,3 +64,5 @@
 - [matplotlib.animation](https://matplotlib.org/stable/api/animation_api.html)
 - [matplotlib.animation.FuncAnimation](https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.FuncAnimation.html)
 - Orbital Mechanics for Engineering Students, _Howard D. Curtis_
+- [Eyes on Exoplanets](https://exoplanets.nasa.gov/eyes-on-exoplanets/#/)
+- [What are Exoplanets?](https://youtu.be/4IXYp9Fse44)
