@@ -17,6 +17,17 @@
 
 ---
 
+## Exoplanets Overiew
+
+1. Exoplanets and their types
+2. Why exoplanets?
+3. Methods of Detection
+4. Famous Missions
+5. NASA Exoplanet Archive
+6. Gaia Data Release
+
+---
+
 ## Programs
 
 - [Python code for sine animation](./programs/sine-animation.py)
