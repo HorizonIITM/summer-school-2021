@@ -17,7 +17,7 @@
 
 ---
 
-## Exoplanets Overiew
+## Exoplanets Overview
 
 1. Exoplanets and their types
 2. Why exoplanets?
