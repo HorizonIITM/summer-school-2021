@@ -27,10 +27,15 @@
 ## Plots
 
 - Animation of Sine function
+
   ![](./images/sine.gif)
+
 - Spiral animation
+
   ![](./images/spiral.gif)
+
 - Hohmann transfer trajectory animation
+
   ![](./images/hohmann-transfer.gif)
 
 ---
