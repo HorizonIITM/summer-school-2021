@@ -42,8 +42,13 @@
 
 ## Resources
 
+### Slides and Notes
+
 - [Slides for Orbital Mechanics](./orbital-mechanics.pdf)
 - [Slides for Exoplanets](./exoplanets.pdf)
+
+### References
+
 - [Matplotlib animation tutorial](https://www.youtube.com/watch?v=GtZxk8Wa3Jw)
 - [matplotlib.animation](https://matplotlib.org/stable/api/animation_api.html)
 - [matplotlib.animation. FuncAnimation](https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.FuncAnimation.html)
