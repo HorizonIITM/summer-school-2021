@@ -51,6 +51,12 @@
 
 ---
 
+## Exoplanet Detection Techniques
+
+- Single Planet Transit
+
+ ![](./Detection Methods/transit-method-single-planet.mp4)
+
 ## Resources
 
 ### Slides and Notes
