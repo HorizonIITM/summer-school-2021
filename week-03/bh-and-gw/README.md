@@ -11,19 +11,17 @@
 
 _Duration : 1 hour_
 
-- Action principle in Physics
-- Einstein Equation revision
-- Solutions to Einstein equation: Schwarzschild Metric, Kerr Black Hole
+- Stellar Collapse
+- Schwarzschild Black Hole
 
-- **Break (~ 10 mins)**
+**Break (~ 10 mins)**
 
 _Duration : 1 hour_
 
-- Stellar Evolution : Formation of a Neutron Star, Black Hole
-- Black Hole observations : Nobel Prize 2020
-- Event Horizon Telescope : Black Hole Image
+- Relativistic gravity in action
+- Astrophysical Black Holes
 
-#### Day2 : 21st July
+#### Day2 : 26th July
 
 _Duration : 1 hour_
 
