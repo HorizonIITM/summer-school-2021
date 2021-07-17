@@ -25,9 +25,9 @@ _Duration : 1 hour_
 
 _Duration : 1 hour_
 
-- Binary Black Holes, Gravitational Waves, History
-- LIGO
-- The current observed GW candidates
+- From Einstein to LIGO
+- LIGO and other GW detectors
+- Gravitational Wave Catalogue
 
 - **Break (~ 10 mins)**
 
