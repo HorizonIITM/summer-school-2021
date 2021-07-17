@@ -85,7 +85,7 @@ ds^2 = -\bigg(1 - \frac{2 M}{r}\bigg) dt^2 + \bigg(1- \frac{2M}{r} \bigg)^{-1} d
  \end{equation}
  Notice that the singularity at $r=2M$ is removed here. This singularity was just a \emph{coordinate singularity}.
  
- \item If $|M/r| <<1$ then expand the metric to arrive at the static, weak field metric. Now using the newtonian potential,
+ \item If $M/r <<1$ then expand the metric to arrive at the static, weak field metric. Now using the newtonian potential,
  
  $$\Phi = - \frac{G M}{r}$$
  
@@ -129,9 +129,7 @@ If A is sufficiently large, the total energy $E = E_{F} + E_{G}$ will be negativ
 
 \item Further show that the critical Mass associated with $A_{crit}$ is of the order of $M_{crit} \sim 1 M_{\odot}$. If you follow the careful calculation that requires a bit of Quantum and Statistical Mechanics, you will arrive at the number Chandra found:
 
-\begin{equation}
-M_{chandra} = 1.4 M_{\odot}
-\end{equation}
+\begin{e}
 
 
 
