@@ -57,6 +57,8 @@
 
 - [Slides for Orbital Mechanics](./orbital-mechanics.pdf)
 - [Slides for Exoplanets](./exoplanets.pdf)
+- [NASA Exoplanet Archive notebook](./nasa-exoplanet-archive.ipynb)
+- [Gaia DR2 and ADQL](./gaia-notebook.ipynb)
 
 ### References
 
@@ -66,3 +68,6 @@
 - Orbital Mechanics for Engineering Students, _Howard D. Curtis_
 - [Eyes on Exoplanets](https://exoplanets.nasa.gov/eyes-on-exoplanets/#/)
 - [What are Exoplanets?](https://youtu.be/4IXYp9Fse44)
+- [ADQL Reference](https://www.g-vo.org/pmwiki/uploads/About/adqlref_2016.pdf)
+- [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)
+- [Gaia Archive](https://gea.esac.esa.int/archive/)
