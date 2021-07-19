@@ -2,7 +2,7 @@
 
 ---
 
-+ [Time-Table and Other information](./day0.md)
+- [Time-Table and Other information](./day0.md)
 
 ## Week 1
 
@@ -20,7 +20,7 @@
 
 [Module 2.2 - Orbital Mechanics and Exoplanets :heavy_check_mark:](./week-02/orbital-mechanics-and-exoplanets)
 
-[Module 2.3 - Particle Physics](./week-02/particle-physics)
+[Module 2.3 - Particle Physics :heavy_check_mark:](./week-02/particle-physics)
 
 ---
 
