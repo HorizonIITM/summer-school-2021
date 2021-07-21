@@ -1,0 +1,145 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\author{Pranav Satheesh}
+\title{GR and Black Holes Assignment}
+\begin{document}
+\maketitle
+
+\section{Clocks, Gravity and Gravitational Redshift}
+
+We will now consider a \emph{Gedanken experiment}. Alice, in the nose of the rocket, emits signals at equal intervals ($\Delta \tau_{A}$) on a clock at her height ($h$). Bob, in the tail, measures the time interval ($\Delta \tau_{B}$) between receipt of the signals on an identical clock at his location. As shown in the left figure \ref{figure1}, the rocket is stationary on Earth's surface where bodies fall with acceleration $g$.
+We will derive the relation between $\Delta \tau_{A}$ and $\Delta \tau_{B}$.
+
+\begin{figure}[!htb]
+\includegraphics[scale=0.3]{gravity1.png}
+\centering
+\caption{The thought experiment showing equivalence between a stationary ship on earth where there is uniform acceleration due to gravity $g$. The second figure is an equivalent frame where the rocket is accelerating. }
+\label{figure1}
+\end{figure}
+ 
+ \begin{enumerate}
+ \item Consider the rocket accelerating along the z-axis. Suppose that t = 0 is the time the first pulse is emitted, $t_{1}$ is the time it is received. $\Delta \tau_{A}$ is the time second pulse is emitted, and $t_{1} + \Delta \tau_{B}$ is the time the second pulse is received as shown in the figure \ref{figure2}. Write down the distance travelled by the \textbf{first} and \textbf{second} pulse in terms of the times defined.
+ 
+\begin{figure}[!htb]
+\centering
+\includegraphics[scale=0.3]{gravity2.png}
+\caption{The pulse sent at different times}
+\label{figure2}
+\end{figure}
+ 
+ \item Now keep only the \textbf{linear} terms in the equations after substituting $z(t)$ in terms of the uniform acceleration $g$, show that
+ \begin{equation}
+ 	\Delta \tau_{B} =  \Delta \tau_{B} \bigg(1 - \frac{gh}{c^2}\bigg)
+ 	\label{eq:1}
+ \end{equation}
+ 
+ \item According to \emph{Equivalence Principle}, the same should apply to unifrom gravitational field $g$ on Earth. Relate \eqref{eq:1} to the gravitational potenmtials at Alice ($\Phi_{A}$) and Bob's($\Phi_{B}$) location. We arrive at a very general GR result for any general potential $\Phi$.
+ 
+ \begin{equation}
+ \Delta \tau_{B} = \bigg(1 + \frac{\Phi_{A} - \Phi_{B}}{c^2} \bigg) \Delta \tau_{A}
+ \end{equation}
+
+When the receiver is at a higher gravitational
+potential than the emitter, the signals will be received more slowly than they were
+emitted. When the receiver is at a lower potential than the emitter, the signals will
+be received more quickly.
+
+\item Let's have some fun now. Say you are working on the top floor of your department building. Your heart is like a clock, we wil use it for our measurements! Using \eqref{eq:1} figure out how fast a heart
+will beat more times on the top floor in a given interval of time than the heart of a
+your friend on the ground floor.Assume a heighr of 30m.
+
+
+
+ \item We can apply \eqref{eq:1} to photons with frequency. Consider light emited from the surface of a star with frequency $\omega_{*}$ which is recieved at a very farway from the star with frequency $\omega_{\infty}$. This will be lesser than $\omega_{*}$ and this phenomena is called \textbf{gravitational redshift}. Since frequency is \emph{redshifted}. Arrive at this relation.
+ 
+ \end{enumerate}
+
+
+
+\section{Schwarschild Metric properties}
+You will now derive some properties of Schwarschild Metric
+
+\begin{equation}
+ds^2 = -\bigg(1 - \frac{2 M}{r}\bigg) dt^2 + \bigg(1- \frac{2M}{r} \bigg)^{-1} dr^2 + r^2 ( d \theta^2 + sin^2 \theta d \phi)
+\end{equation}
+
+
+
+
+
+\begin{enumerate}
+ \item Firstly, figure out the singularities in the metric i.e, find r where the metric coefficient(s) blow up.
+ \item Do a coordinate transformation to \emph{Edington Finkelstein} coordinates $(v,r)$
+ 
+ \begin{equation}
+ t = v - r - 2M log \bigg|\frac{r}{2M}-1 \bigg|
+ \end{equation}
+ 
+ Show that in this coordinates the metric becomes
+ \begin{equation}
+ ds^2 = -\bigg(1 - \frac{2 M}{r}\bigg) dv^2 + 2 dv dr + r^2 ( d \theta^2 + sin^2 \theta d \phi)
+ \end{equation}
+ Notice that the singularity at $r=2M$ is removed here. This singularity was just a \emph{coordinate singularity}.
+ 
+ \item If $|M/r| <<1$ then expand the metric to arrive at the static, weak field metric. Now using the newtonian potential,
+ 
+ $$\Phi = - \frac{G M}{r}$$
+ 
+ show that the weak field metric becomes:
+ 
+ $$ds^2 = -\bigg(1 + 2 \Phi \bigg) dt^2 + \bigg(1- 2 \Phi \bigg)(dx^2 + dy^2 + dz^2)$$
+ 
+ 
+\end{enumerate}
+
+
+
+\section{Simple calculation of Chandrashekhar Mass Limit}
+
+You will now do a back-of-the-envelope calculation of the Chandreshakar Mass limit. 
+
+White dwarfs support against their gravity by the pressure of electrons from Pauli exclusion principle. This pressure is called \emph{Fermi Pressure}. 
+
+\begin{enumerate}
+\item Consider a spherical configuration of radius R consisting of A electrons and A protons. We can think of each of the electron to occupy a volume of characteristic size $\lambda$ such that there is a notat of A electrons occupying a spherical volume of radius R. Then, 
+
+$$\lambda \sim \frac{R}{A^{1/3}}.$$
+Now uising the deBroglie relatiopn $p = 2 \pi \hbar / \lambda$, calculate the approx. Fermi momentum, $p_{F}$.
+
+\item When the sphere is compressed, $p_{F}$ rises and has to compete the gravitational pressure. Using the relativistic energy $E = [(p_{F} c)^2 + (m_{e} c^2)^2]^{1/2} \approx p_{F} c$, show that the total Fermi energy is 
+
+\begin{equation}
+E_{F} \sim A^{4/3} \frac{\hbar c}{R}
+\label{eq:2}
+\end{equation}
+
+\item The protons supply most of the mass. The total mass of protons is $m_{p} A$. Calculate the gravitational energy $E_{G}$
+\begin{equation}
+E_{G} \sim -  \frac{G (m_{p} A)^2}{R}
+\label{eq:3}
+\end{equation}
+
+\item Now equate \eqref{eq:2} and \eqref{eq:3} to arrive at the critical A to balance out the graviutational and fermi pressure.Plugging in the constants show that $A_{crit} \sim 10^{57}$.
+
+If A is sufficiently large, the total energy $E = E_{F} + E_{G}$ will be negative and the white dwarf will collapse
+
+\item Further show that the critical Mass associated with $A_{crit}$ is of the order of $M_{crit} \sim 1 M_{\odot}$. If you follow the careful calculation that requires a bit of Quantum and Statistical Mechanics, you will arrive at the number Chandra found:
+
+\begin{equation}
+M_{chandra} = 1.4 M_{\odot}
+\end{equation}
+
+
+
+ 
+\end{enumerate}
+
+
+
+
+\end{document}
+
