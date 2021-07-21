@@ -1,6 +1,5 @@
 # References and Resources for GR and Cosmology
 
-$$G_{\mu \nu} = 8 \pi G T_{\mu \nu}$$
 
 Below I list some recommended resources to start learning Special and General Relativity. 
 
