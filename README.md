@@ -26,8 +26,8 @@
 
 ## Week 3
 
-[Module 3.1 - Relativity and Cosmology](./week-03/relativity-and-cosmology)
+[Module 3.1 - Relativity and Cosmology :heavy_check_mark:](./week-03/relativity-and-cosmology)
 
-[Module 3.2 - Applications of Quantum Mechanics](./week-03/applications-of-qm)
+[Module 3.2 - Applications of Quantum Mechanics :heavy_check_mark:](./week-03/applications-of-qm)
 
 [Module 3.3 - Black Holes and Gravitational Waves](./week-03/bh-and-gw)
