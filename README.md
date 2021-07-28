@@ -30,4 +30,4 @@
 
 [Module 3.2 - Applications of Quantum Mechanics :heavy_check_mark:](./week-03/applications-of-qm)
 
-[Module 3.3 - Black Holes and Gravitational Waves](./week-03/bh-and-gw)
+[Module 3.3 - Black Holes and Gravitational Waves :heavy_check_mark:](./week-03/bh-and-gw)
